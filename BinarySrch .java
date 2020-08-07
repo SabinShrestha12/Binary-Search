@@ -1,5 +1,5 @@
 import java.util.Random;
-class BinarySrch 
+public class BinarySrch 
 {
 	public static int bnrySrch(int arr[], int x) 
     { 
